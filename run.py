@@ -64,7 +64,7 @@ EMOTIONS = ["happy", "sad", "angry", "surprise", "fear", "neutral"]
 root.mainloop()
 
 def get_weather():
-    api_key = "e7bb8187bc004eccbd444202250703"  
+    api_key = "************************"  
     url = f"http://api.weatherapi.com/v1/current.json?key={api_key}&q=Hyderabad,Telangana"
     try:
         response = requests.get(url)
