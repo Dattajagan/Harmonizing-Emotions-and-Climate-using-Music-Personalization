@@ -3,15 +3,14 @@ import numpy as np
 import cv2
 from tensorflow.keras.utils import img_to_array
 
-# Path to models
 detection_model_path = 'haarcascade_files/haarcascade_frontalface_default.xml'
 emotion_model_path = 'final_model.h5'
 
-# Load models
+
 face_detection = cv2.CascadeClassifier(detection_model_path)
 emotion_classifier = load_model(emotion_model_path, compile=False)
 
-# Expanded emotion list
+
 EMOTIONS = ["happy", "sad", "angry", "surprise", "fear", "neutral"]
 
 def emotion_testing():
