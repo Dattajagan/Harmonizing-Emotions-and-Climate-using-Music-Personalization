@@ -48,6 +48,8 @@
 
 # 💥HOW TO USE :
 
+    ->  https://drive.google.com/file/d/1yPV3xRdtjS7kIj-botpucqOrnBk3cXNq/view?usp=sharing <-
+
    * Run the run.py file to launch the application.A GUI will appear, prompting you to start the emotion detection.
    * The application will access your webcam and capture your image.
    * Your facial expression will be analyzed using the trained model.
