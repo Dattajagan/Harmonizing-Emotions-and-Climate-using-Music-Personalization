@@ -48,6 +48,11 @@
 
 # 💥HOW TO USE :
 
+
+https://github.com/user-attachments/assets/5253e13d-fee5-433b-ace4-571f869d0d76
+
+
+
   ->  https://drive.google.com/file/d/1yPV3xRdtjS7kIj-botpucqOrnBk3cXNq/view?usp=sharing <-
 
    * Run the run.py file to launch the application.A GUI will appear, prompting you to start the emotion detection.
